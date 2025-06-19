@@ -1,7 +1,7 @@
 ## <p align="center">Hi, i'm Pham Minh An 👋</p>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=phamminhan.0107&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/phamminhan.0107)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhan39"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhan39&layout=compact)
 
 <!--
 **Minhan39/minhan39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
