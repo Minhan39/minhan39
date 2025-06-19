@@ -1,4 +1,5 @@
 ## Hi, i'm Pham Minh An 👋
+<p align="center">Đây là một đoạn văn bản được căn giữa</p>
 
 <!--
 **Minhan39/minhan39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
