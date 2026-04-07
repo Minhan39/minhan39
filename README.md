@@ -56,7 +56,7 @@ I enjoy turning business requirements into practical software, from mobile UI to
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/minhan39/">
-  <img src="https://img.shields.io/badge/LinkedIn-minhan39-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-minhan39-0A66C2?style=for-the-badge&logo=listmonk&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Minhan39">
