@@ -1,149 +1,172 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ███╗   ███╗    ███╗   ███╗██╗███╗   ██╗██╗  ██╗     █████╗ ███╗   ██╗
-██╔══██╗██║  ██║██╔══██╗████╗ ████║    ████╗ ████║██║████╗  ██║██║  ██║    ██╔══██╗████╗  ██║
-██████╔╝███████║███████║██╔████╔██║    ██╔████╔██║██║██╔██╗ ██║███████║    ███████║██╔██╗ ██║
-██╔═══╝ ██╔══██║██╔══██║██║╚██╔╝██║    ██║╚██╔╝██║██║██║╚██╗██║██╔══██║    ██╔══██║██║╚██╗██║
-██║     ██║  ██║██║  ██║██║ ╚═╝ ██║    ██║ ╚═╝ ██║██║██║ ╚████║██║  ██║    ██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+# Hi there, I'm Pham Minh An 👋
 
-### `> Hello World! I'm Pham Minh An 👨‍💻`
+**Software Developer | Flutter & .NET Core | REST API | PostgreSQL**
 
-*Mobile Developer · Competitive Programmer · Problem Solver*
+Building practical mobile and web solutions for enterprise and government use cases.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+%40+VNPT+Group;Mobile+App+Developer+%7C+Flutter+%26+C%2B%2B;Competitive+Programmer+on+Codeforces;Always+learning%2C+always+growing...)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class PhamMinhAn:
-    def __init__(self):
-        self.name       = "Pham Minh An"
-        self.username   = "Minhan39"
-        self.location   = "Binh Duong, Vietnam 🇻🇳"
-        self.role       = "Junior Software Engineer @ VNPT Group"
-        self.stack      = ["C++", "Python", "Java", "Flutter", "Git"]
-        self.codeforces = "phamminhan.0107"
-        self.email      = "annpm.0107@gmail.com"
-        self.open_to    = ["Mobile Development", "Full-time Opportunities"]
-        self.goal       = "Build impactful apps & reach higher CF rating 📈"
-
-    def say_hello(self):
-        print("Thanks for visiting! Let's solve problems and build things together.")
-
-me = PhamMinhAn()
-me.say_hello()
-```
-
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| 🏢 **Software Engineer** | VNPT Group · Full-time | Aug 2024 – Sep 2025 · 1y 2m |
-| 🎓 **Intern** | Thu Dau Mot University · Part-time | Apr 2021 – Jun 2024 · 3y 3m |
-
-> At VNPT: C#, Flutter and +7 skills · On-site, Binh Duong
-> At TDM University: System Admin, Teamwork and +4 skills · Hybrid
-
----
-
-## 🎓 Education & Certifications
-
-**Thu Dau Mot University** — Engineer's degree, Information Technology *(Aug 2020 – Jun 2023)*
-Grade: **Very Good** · Skills: Software Development, Problem Solving and +6
-
-| Certificate | Issuer | Date |
-|------------|--------|------|
-| Basic Front-end | CrossTech | Nov 2024 |
-| Problem Solving (Basic) | HackerRank | Nov 2024 |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Mobile & Tools:**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=phamminhan.0107&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/phamminhan.0107)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Minhan39&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhan39&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Minhan39&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
----
-
-## 🌱 Currently Leveling Up
-
-```
-⚔️  Grinding Codeforces — one problem at a time
-📌  Mastering advanced algorithms & data structures
-🔍  Exploring Dynamic Programming patterns
-📱  Building mobile apps with Flutter
-```
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-phamminhan.0107-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/phamminhan.0107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pham%20Minh%20An-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhan39/)
 [![GitHub](https://img.shields.io/badge/GitHub-Minhan39-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minhan39)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-minhan39-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhan39)
-[![Email](https://img.shields.io/badge/Email-annpm.0107@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annpm.0107@gmail.com)
+[![Email](https://img.shields.io/badge/Email-annpm.0107%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annpm.0107@gmail.com)
 
 </div>
 
 ---
 
+## About Me
+
+I am a Software Developer based in Ho Chi Minh City, Vietnam, with hands-on experience in building **Flutter mobile applications**, **RESTful APIs with .NET Core**, and working with **PostgreSQL** in real-world business environments.
+
+My work has focused on internal enterprise systems and government-related platforms, where stability, usability, and maintainability matter. I enjoy turning requirements into practical products, collaborating with teams, and continuously improving my software design skills.
+
+---
+
+## Core Strengths
+
+- **Mobile Development:** Flutter, Dart, app UI implementation, API integration
+- **Backend Development:** .NET Core, REST API design, authentication, business logic
+- **Database:** PostgreSQL, query optimization, data processing
+- **Collaboration:** Git, GitLab, requirement discussion, UAT support, teamwork
+- **Problem Solving:** Competitive programming background and strong logical thinking
+
+---
+
+## Tech Stack
+
+### Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## Professional Experience
+
+### Software Developer — VNPT Binh Duong
+**May 2024 – Sep 2025**
+
+- Developed and maintained Flutter mobile applications for internal and enterprise users
+- Designed and implemented RESTful APIs with .NET Core
+- Optimized PostgreSQL queries to improve data retrieval performance
+- Worked directly with clients to gather requirements and support UAT
+- Collaborated in a 5-member team using Git and GitLab
+
+### Self-Study & Programming Tutor (Part-time)
+**Oct 2025 – Present**
+
+- Deepened knowledge in software architecture, OAuth 2.0, Keycloak, and microservices
+- Provided one-on-one Python tutoring for high school programming competition preparation
+
+---
+
+## Featured Projects
+
+### XOBID HRM — Timekeeping Mobile App
+**Flutter · .NET Core · PostgreSQL**
+
+A mobile application for employee timekeeping used daily by 100+ employees.
+
+**Highlights:**
+- Built leave management and attendance history features
+- Integrated attendance data from vnFace through internal APIs
+- Processed data from the company’s internal management system
+- Participated in requirement analysis and UAT support
+
+### Digital Office (Van Phong So BDU)
+**Flutter**
+
+A mobile application for internal digital office operations.
+
+**Highlights:**
+- Displayed and managed internal documents on mobile devices
+- Integrated with an existing e-Office system
+- Supported customers during deployment and real usage phases
+
+### Government Public Service Portal Module
+**Angular · Java Spring Boot**
+
+A web module developed for the national public service portal.
+
+**Highlights:**
+- Implemented functionality for declaration and management of counter closure days
+- Worked with backend APIs to process administrative data
+- Collaborated in a 10-developer team using GitLab
+
+### Expense Management App
+**Flutter · Firebase · Google Sheets API**
+
+A personal finance mobile application focused on monthly tracking and savings management.
+
+**Highlights:**
+- Built expense and savings tracking features
+- Used Firebase for authentication and storage
+- Integrated Google Sheets API for synchronization and reporting
+
+---
+
+## Education
+
+**Thu Dau Mot University**  
+Information Technology Engineer  
+**Aug 2020 – Apr 2025**  
+GPA: **8.0+**
+
+---
+
+## Achievements & Activities
+
+- Consolation Prize — **Vietnam Student Olympiad in Informatics 2020**
+- Third Prize (Specialized Category) — **Vietnam Student Olympiad in Informatics 2023**
+- Contestant — **ICPC Asia Can Tho Regional Contest 2020**
+- Third Prize — **TDMU Programming Contest 2022**
+- Second Prize — **TDMU Programming Contest 2023**
+- Member & mentor — **IT-TDMU Club**
+
+---
+
+## Current Focus
+
+I am currently strengthening my skills in:
+
+- Software architecture and system design
+- Secure authentication flows with OAuth 2.0 and Keycloak
+- Scalable backend development
+- Writing cleaner, more maintainable code
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Minhan39&label=Profile+Views&color=0e75b6&style=flat)
-
-```
-"First, solve the problem. Then, write the code." — John Johnson
-```
-
-⭐ *If you find my work interesting, feel free to star a repo!* ⭐
+<img src="https://github-readme-stats.vercel.app/api?username=Minhan39&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhan39&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
 
 </div>
+
+---
+
+## Contact
+
+- **Email:** annpm.0107@gmail.com
+- **LinkedIn:** [linkedin.com/in/minhan39](https://www.linkedin.com/in/minhan39/)
+- **GitHub:** [github.com/Minhan39](https://github.com/Minhan39)
+
+---
+
+> I’m always open to learning, collaboration, and opportunities to build useful products with good engineering practices.
