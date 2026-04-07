@@ -11,9 +11,9 @@
 
 ### `> Hello World! I'm Pham Minh An 👨‍💻`
 
-*Competitive Programmer · Problem Solver · Code Enthusiast*
+*Mobile Developer · Competitive Programmer · Problem Solver*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer+%F0%9F%8F%86;Algorithm+%26+Data+Structure+Lover;Always+learning%2C+always+growing...;Let's+solve+problems+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+%40+VNPT+Group;Mobile+App+Developer+%7C+Flutter+%26+C%2B%2B;Competitive+Programmer+on+Codeforces;Always+learning%2C+always+growing...)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,20 +24,64 @@
 ```python
 class PhamMinhAn:
     def __init__(self):
-        self.name      = "Pham Minh An"
-        self.username  = "Minhan39"
-        self.location  = "Vietnam 🇻🇳"
-        self.passion   = ["Competitive Programming", "Problem Solving", "Algorithms"]
+        self.name       = "Pham Minh An"
+        self.username   = "Minhan39"
+        self.location   = "Binh Duong, Vietnam 🇻🇳"
+        self.role       = "Junior Software Engineer @ VNPT Group"
+        self.stack      = ["C++", "Python", "Java", "Flutter", "Git"]
         self.codeforces = "phamminhan.0107"
-        self.currently  = "Grinding Codeforces & sharpening my skills ⚔️"
-        self.goal       = "Reach higher rating every single day 📈"
+        self.email      = "annpm.0107@gmail.com"
+        self.open_to    = ["Mobile Development", "Full-time Opportunities"]
+        self.goal       = "Build impactful apps & reach higher CF rating 📈"
 
     def say_hello(self):
-        print("Thanks for visiting my profile! Let's code something amazing.")
+        print("Thanks for visiting! Let's solve problems and build things together.")
 
 me = PhamMinhAn()
 me.say_hello()
 ```
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| 🏢 **Software Engineer** | VNPT Group · Full-time | Aug 2024 – Sep 2025 · 1y 2m |
+| 🎓 **Intern** | Thu Dau Mot University · Part-time | Apr 2021 – Jun 2024 · 3y 3m |
+
+> At VNPT: C#, Flutter and +7 skills · On-site, Binh Duong
+> At TDM University: System Admin, Teamwork and +4 skills · Hybrid
+
+---
+
+## 🎓 Education & Certifications
+
+**Thu Dau Mot University** — Engineer's degree, Information Technology *(Aug 2020 – Jun 2023)*
+Grade: **Very Good** · Skills: Software Development, Problem Solving and +6
+
+| Certificate | Issuer | Date |
+|------------|--------|------|
+| Basic Front-end | CrossTech | Nov 2024 |
+| Problem Solving (Basic) | HackerRank | Nov 2024 |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Mobile & Tools:**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
 
@@ -46,29 +90,6 @@ me.say_hello()
 <div align="center">
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=phamminhan.0107&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/phamminhan.0107)
-
-> *"The only way to get better at competitive programming is to do competitive programming."*
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages I use to solve problems:**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Tools & Platforms:**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 </div>
 
@@ -94,10 +115,10 @@ me.say_hello()
 ## 🌱 Currently Leveling Up
 
 ```
+⚔️  Grinding Codeforces — one problem at a time
 📌  Mastering advanced algorithms & data structures
-⚔️  Competing on Codeforces — one problem at a time
 🔍  Exploring Dynamic Programming patterns
-🚀  Building projects that matter
+📱  Building mobile apps with Flutter
 ```
 
 ---
@@ -108,6 +129,8 @@ me.say_hello()
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-phamminhan.0107-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/phamminhan.0107)
 [![GitHub](https://img.shields.io/badge/GitHub-Minhan39-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minhan39)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-minhan39-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhan39)
+[![Email](https://img.shields.io/badge/Email-annpm.0107@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annpm.0107@gmail.com)
 
 </div>
 
