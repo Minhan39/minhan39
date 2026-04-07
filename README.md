@@ -41,11 +41,8 @@ I enjoy turning business requirements into practical software, from mobile UI to
 ## GitHub Stats
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Minhan39&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Minhan39&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minhan39&theme=tokyonight" />
 </div>
 
 ---
