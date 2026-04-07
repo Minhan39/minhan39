@@ -31,7 +31,7 @@ I enjoy turning business requirements into practical software, from mobile UI to
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,java,angular,laravel,postgres,firebase,python,git,github,gitlab,androidstudio,vscode,visualstudio,idea,bootstrap,css,html,docker,figma,jenkins,linux,windows,postman,sqlite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,java,angular,ts,nodejs,npm,notion,php,laravel,postgres,firebase,python,git,github,gitlab,androidstudio,vscode,visualstudio,idea,bootstrap,css,html,js,jquery,docker,figma,jenkins,linux,windows,postman,sqlite,tailwind" />
 </p>
 
 </div>
