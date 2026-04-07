@@ -51,16 +51,22 @@ I enjoy turning business requirements into practical software, from mobile UI to
 
 <div align="center">
 
-<a href="mailto:annpm.0107@gmail.com">
-  <img src="https://img.shields.io/badge/Email-annpm.0107%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/minhan39/">
-  <img src="https://img.shields.io/badge/LinkedIn-minhan39-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Minhan39">
-  <img src="https://img.shields.io/badge/GitHub-Minhan39-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:annpm.0107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-annpm.0107%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/minhan39/">
+    <img src="https://img.shields.io/badge/LinkedIn-minhan39-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Minhan39">
+    <img src="https://img.shields.io/badge/GitHub-Minhan39-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://minhan.one">
+    <img src="https://img.shields.io/badge/Portfolio-minhan.one-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
